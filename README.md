@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! Eu sou o Neto 👋,
 
-<!--
-**neetosa/neetosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neetosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens que eu sei:
+
+<div style = "display: inline_block"><br/>
+    <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img align = "center" alt = "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align = "center" alt = "python" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
+
+<br/>
+
+## O que eu faço?
+
+Eu sou estudante de Física na UFRGS, na minha bolsa de pesquisa trabalho com simulação de sistemas quânticos em Python. Para me conhecer melhor só clicar na badge abaixo ☺️.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genessi-s%C3%A1-neto-27377b159/)
