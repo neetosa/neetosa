@@ -16,6 +16,6 @@
 
 ## O que eu faço?
 
-Eu sou estudante de Física na UFRGS, na minha bolsa de pesquisa trabalho com simulação de sistemas quânticos em Python. Para me conhecer melhor só clicar na badge abaixo ☺️.
+Eu sou mestre em Física, especializado em dispositivos quânticos, além disso trabalho como cientista de dados e faço alguns projetos pessoais sobre tópicos que me chamam a atenção.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genessi-s%C3%A1-neto-27377b159/)
